@@ -1,1 +1,3 @@
-// Add any interactivity if needed
+function enterSite() {
+    document.getElementById('entryOverlay').style.display = 'none';
+}
